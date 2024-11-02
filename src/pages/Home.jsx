@@ -8,6 +8,7 @@ import Home_Fire from "../assets/images/Home_Fire.png";
 import { useNavigate } from "react-router-dom";
 import Home_Moim from "../assets/images/Home_Moim.png";
 
+// 스타일
 const SpeechBalloons1Img = styled.img`
   position: absolute;
   height: auto;
